@@ -1,0 +1,152 @@
+.portofolio .square{
+    height: 110px;
+    width: 100px;
+    background-color: #ff9933;
+    margin-top: 40px;
+    margin-left: -128px;
+}
+.name{
+    margin-left: 15px;
+}
+.job-name{
+    font-weight: bold;
+    font-size: 15px;
+}
+.job-details{
+    font-size: 14px;
+    color: darkgrey;
+}
+.work-details{
+    margin-top: 75px;
+}
+.work-details li{
+    margin-bottom: 25px;
+}
+.work-details li:first-child{
+    margin-top: 25px;
+}
+.dates{
+    position: absolute;
+    margin-top:-280px;
+    margin-left:60px;
+}
+.dates p{
+    margin-bottom: 50px;
+}
+.dates p:nth-child(2){
+    margin-top: -7px;
+}
+#third{
+    padding-top: 35px;
+}
+.education{
+    margin-left: -124px;
+    margin-top: 40px;
+}
+.dates-two{
+    margin-top: -240px;
+}
+.dates-two p:nth-child(2){
+    margin-top: -5px;
+}
+#thirdd{
+    padding-top:35px;
+}
+.portofolio .head{
+    margin-top:50px;
+    margin-left: -285px;
+}
+.portofolio .x{
+    margin-left: -280px;
+    color: darkgrey;
+    margin-top: -5px;
+    font-size: 19px;
+}
+.portofolio .column-2{
+    margin-left:60%;
+    position: absolute;
+}
+.portofolio .info{
+    margin-top: -95px;
+}
+.portofolio .add{
+    font-weight: bold;
+    margin-right: 20px;
+    font-size: 17px;
+}
+.portofolio .street{
+    color: darkgrey;
+}
+.portofolio .info{
+margin-bottom: 100px;
+margin-top: 50px;
+}
+.portofolio .objective{
+    margin-right: 2px;
+}
+.portofolio .brief{
+    color: #ffffff;
+    background-color: #ff9933;
+    width: 30px;
+    height:30px;
+    text-align: center;
+    padding:8px;
+    border-radius: 30px;
+    margin-right: 15px;
+}
+.portofolio .obj-text{
+    margin-top: 25px;
+    color: darkgrey;
+}
+.portofolio .brief-2{
+    margin-top: 25px;
+    padding: 7px 7px;
+}
+.text-bold{
+    font-weight: bold;
+}
+.outer-skill{
+    height:17px;
+    width:400px;
+    border: 1px solid darkgrey;
+    border-radius: 25px;
+}
+.inner-skill{
+    height: 8px;
+    width: 370px;
+    background-color: #ff9933;
+    margin-top: 4px;
+    margin-left: 7px;
+}
+.html{
+    margin-top: 25px;
+}
+.css{
+    width:300px
+}
+.js{
+    width:350px;
+}
+.sass{
+    width:280px
+}
+.php{
+    width:320px;
+}
+.adobe{
+    width:200px
+}
+.pixate{
+    width:280px;
+}
+.reference{
+    margin-top: 150px;
+    margin-left:60px;
+}
+.phone{
+    font-weight: bold;
+}
+.awards{
+    margin-top: 85px;
+}
+
